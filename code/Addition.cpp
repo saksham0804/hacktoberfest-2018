@@ -2,7 +2,7 @@
      
     using namespace std;
      
-    int main()
+    void main()
     {
        int a, b, c;
        
@@ -11,6 +11,5 @@
      
        c = a + b;
        cout <<"Sum of the numbers: " << c << endl;
-       
-       return 0;
+     
     }
